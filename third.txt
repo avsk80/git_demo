@@ -1,1 +1,2 @@
-This is third feature
+This is third feature.
+Trying to replicate merge conflict from dev
