@@ -1,1 +1,2 @@
 This is third feature
+Another line to merge conflict in feature.
