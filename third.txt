@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+This is third feature.
+Trying to replicate merge conflict from dev
+=======
+This is third feature
+Another line to merge conflict in feature.
+>>>>>>> feature
